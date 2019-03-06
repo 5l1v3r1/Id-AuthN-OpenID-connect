@@ -3,10 +3,13 @@
 This is the first assignment of the subject _Identification and Authentication_.
 
 
+Technologies and libraries used:
+  - PHP
 
 
 Identity providers used:
-	- [Google](https://developers.google.com/identity/protocols/OpenIDConnect#authenticatingtheuser)
+
+  - [Google](https://developers.google.com/identity/protocols/OpenIDConnect#authenticatingtheuser)
 
 
 -----------------------------------------------------------------------------------------
