@@ -4,7 +4,9 @@ This is the first assignment of the subject _Identification and Authentication_.
 
 
 Technologies and libraries used:
-  - PHP
+
+  - PHP 7
+  - [jumbojett/openid-connect-php](https://github.com/jumbojett/openid-connect-php)
 
 
 Identity providers used:
@@ -19,6 +21,7 @@ Identity providers used:
 List of some OpenID Connect providers: https://connect2id.com/products/nimbus-oauth-openid-connect-sdk/openid-connect-providers
 
 Some general info on OpenID: https://openid.net/connect/
+
 _Certified_ libraries to implement it: https://openid.net/developers/certified/
 
 
