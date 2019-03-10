@@ -24,4 +24,4 @@ Some general info on OpenID: https://openid.net/connect/
 
 _Certified_ libraries to implement it: https://openid.net/developers/certified/
 
-
+More info on setting up Google's button: https://developers.google.com/identity/sign-in/web/build-button

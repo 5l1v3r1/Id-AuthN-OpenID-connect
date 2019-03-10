@@ -2,8 +2,8 @@
 	background: #212121;
 	color: #cafebabe;
 	font-family: ubuntu;
-	margin: 1em;
-	padding 1em;
+/*	margin: 1em;
+	padding 1em;*/
 }
 button {
 	padding: 1em;
@@ -16,4 +16,17 @@ button {
 	border-radius: 8px;
 	text-align: center;
 	padding: 2em;
+}
+
+
+#providers {
+
+	display: flex;
+	justify-content: center;
+}
+
+#google {
+	width: 240px;
+	height: 50px;
+	border: 1px solid #cafebabe;
 }
