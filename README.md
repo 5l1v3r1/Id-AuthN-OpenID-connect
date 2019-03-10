@@ -5,8 +5,8 @@ This is the first assignment of the subject _Identification and Authentication_.
 
 Technologies and libraries used:
 
-  - PHP 7
-  - [jumbojett/openid-connect-php](https://github.com/jumbojett/openid-connect-php)
+  - JavaScript
+  - [Google's OpenID library](https://developers.google.com/identity/sign-in/web/sign-in)
 
 
 Identity providers used:
