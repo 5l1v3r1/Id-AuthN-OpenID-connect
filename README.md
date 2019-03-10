@@ -24,4 +24,4 @@ Some general info on OpenID: https://openid.net/connect/
 
 _Certified_ libraries to implement it: https://openid.net/developers/certified/
 
-
+Example to use the PHP library: https://docs.openathens.net/display/public/OAAccess/PHP+OpenID+Connect+example
