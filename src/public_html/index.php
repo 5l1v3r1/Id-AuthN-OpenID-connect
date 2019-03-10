@@ -104,7 +104,7 @@ $config = require (__DIR__ . '/../config.php');
 			</dl>
 		</div>
 
-		<button onclick="signout ()">Sign Out</button>
+		<button onclick="signOut ()">Sign Out</button>
 	</div>
 
 </body>
